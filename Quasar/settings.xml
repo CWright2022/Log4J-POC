@@ -1,0 +1,16 @@
+<settings>
+  <ListenPort>4782</ListenPort>
+  <IPv6Support>False</IPv6Support>
+  <AutoListen>True</AutoListen>
+  <ShowPopup>True</ShowPopup>
+  <UseUPnP>False</UseUPnP>
+  <ShowToolTip>True</ShowToolTip>
+  <EnableNoIPUpdater>False</EnableNoIPUpdater>
+  <NoIPHost>
+  </NoIPHost>
+  <NoIPUsername>
+  </NoIPUsername>
+  <NoIPPassword>
+  </NoIPPassword>
+  <SaveFormat>APP - URL - USER:PASS</SaveFormat>
+</settings>

